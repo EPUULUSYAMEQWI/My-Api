@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">mypost</string>
+    <string name="i_love_swimming">I love swimming</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="body">body</string>
+    <string name="content">content</string>
+    <string name="swimming">Swimming</string>
+    <string name="_2424">2424</string>
+    <string name="_24">24</string>
+    <string name="lessons">LESSONS</string>
 </resources>
